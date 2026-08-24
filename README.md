@@ -38,6 +38,19 @@ For editors, we recommend **Visual Studio Code**, **PyCharm**, or **Jupyter Note
 - **PyCharm:** Download the Community Edition for [Linux](https://www.jetbrains.com/help/pycharm/installation-guide.html#standalone), [Windows](https://www.jetbrains.com/help/pycharm/installation-guide.html#standalone), and [macOS](https://www.jetbrains.com/help/pycharm/installation-guide.html#standalone)
 - **Jupyter Notebook:** Install via pip once Python is set up with `pip install jupyter`
 
+### Structure:
+
+The repo structure is organized as follows:
+
+The ```/data``` folder holds the ```.csv``` files for analysis.
+
+```bash
+├── data
+│   ├── disability_employment_by_state.csv
+|   ├── disability_employment_by_state_maine.csv
+└── README.md
+```
+
 
 ## TODOs:
 
@@ -60,13 +73,13 @@ Below is a checklist of states from which we have successfully collected data, o
 - [x] Illinois
 - [x] Indiana
 - [x] Iowa
+- [x] Maine
 
 ### States Still Needed
 
 - [ ] Kansas
 - [ ] Kentucky
 - [ ] Louisiana
-- [ ] Maine
 - [ ] Maryland
 - [ ] Massachusetts
 - [ ] Michigan
