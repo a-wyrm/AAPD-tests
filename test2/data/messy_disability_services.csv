@@ -1,0 +1,26 @@
+record_id,state,disability_category,date_reported,people_served,program_status
+1,California,Mobility,2023-01-15,1240,Active
+2,CA,mobility,01/15/2023,1240,Active
+3,Texas,Vision,2023-02-03,890,active
+4,TX,Visual,Feb 3 2023,890,ACTIVE
+5,New York,Hearing,2023-03-21,,Active
+6,NY,hearing impairment,03/21/2023,675,Inactive
+7,Florida,Cognitive,2023-04-10,1105,Active
+8,FL,cognitive,2023-04-10,1105,active
+9,Illinois,Mobility,2023/05/18,432,Pending
+10,IL,Mobility,May 18 2023,432,pending
+11,Ohio,Vision,2023-06-02,",",Active
+12,OH,vision,06/02/2023,567,Active
+13,Georgia,Mental Health,2023-07-14,798,Active
+14,GA,mental-health,07-14-2023,798,ACTIVE
+15,Arizona,Hearing,2023-08-09,321,Inactive
+16,AZ,Hearing,08/09/2023,321,inactive
+17,Washington,Cognitive,,654,Active
+18,WA,Cognitive,2023-09-27,654,Active
+19,Nevada,Mobility,2023-10-11,289,Active
+20,NV,mobility,10/11/2023,289,active
+21,Oregon,Vision,2023-11-05,412,Pending
+22,OR,vision,Nov 5 2023,412,Pending
+23,Colorado,Hearing,2023-12-19,376,Active
+24,CO,hearing,12/19/2023,376,Active
+25,Michigan,Mental Health,2023-13-45,543,Active
